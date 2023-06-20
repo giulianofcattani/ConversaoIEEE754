@@ -1,0 +1,11 @@
+C:\Users\OptiPlex 5060\RiderProjects\ConversaoIEEE754\ConversaoIEEE754\bin\Debug\ConversaoIEEE754.exe.config
+C:\Users\OptiPlex 5060\RiderProjects\ConversaoIEEE754\ConversaoIEEE754\bin\Debug\ConversaoIEEE754.exe
+C:\Users\OptiPlex 5060\RiderProjects\ConversaoIEEE754\ConversaoIEEE754\bin\Debug\ConversaoIEEE754.pdb
+C:\Users\OptiPlex 5060\RiderProjects\ConversaoIEEE754\ConversaoIEEE754\obj\Debug\ConversaoIEEE754.csproj.AssemblyReference.cache
+C:\Users\OptiPlex 5060\RiderProjects\ConversaoIEEE754\ConversaoIEEE754\obj\Debug\ConversaoIEEE754.csproj.SuggestedBindingRedirects.cache
+C:\Users\OptiPlex 5060\RiderProjects\ConversaoIEEE754\ConversaoIEEE754\obj\Debug\ConversaoIEEE754.Properties.Resources.resources
+C:\Users\OptiPlex 5060\RiderProjects\ConversaoIEEE754\ConversaoIEEE754\obj\Debug\ConversaoIEEE754.csproj.GenerateResource.cache
+C:\Users\OptiPlex 5060\RiderProjects\ConversaoIEEE754\ConversaoIEEE754\obj\Debug\ConversaoIEEE754.csproj.CoreCompileInputs.cache
+C:\Users\OptiPlex 5060\RiderProjects\ConversaoIEEE754\ConversaoIEEE754\obj\Debug\ConversaoIEEE754.exe
+C:\Users\OptiPlex 5060\RiderProjects\ConversaoIEEE754\ConversaoIEEE754\obj\Debug\ConversaoIEEE754.pdb
+C:\Users\OptiPlex 5060\RiderProjects\ConversaoIEEE754\ConversaoIEEE754\obj\Debug\ConversaoIEEE754.Form1.resources
